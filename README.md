@@ -1,5 +1,5 @@
-# Hello World ARM64
-This is a hello world application in ARM64 assembly for Apple Silicon.
+# ARM64 Hello World for Apple Silicon
+Explore ARM64 assembly with this compact and fun Hello World app tailored for Apple Silicon
 
 ## How to run locally
 Assemble your assembly to object files:
